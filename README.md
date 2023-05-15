@@ -8,13 +8,13 @@ OVERVIEW: The ultimate goal of this analysis is to investigate the positional en
 SYSTEM REQUIREMENTS: pandas1.5.2, seaborn0.11.2, matplotlib3.6.2, numpy 1.23.4, sklearn, scipy, Python Notebook editor of choice (code originated in VSCode)
 
 DATA AVAILABILITY: All raw data necessary for analysis has been provided in /Data/Raw. Furthermore, preprocessed/intermediate data files have been provided in /Data. To execute all code, unzip the /Data folder locally in the location where the CODE folder lives. This will allow seamless execution of the code files. 
-  HIV DMPs: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00616-8/fulltext
-  HPV DMPs: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3142368/ 
-  SARS2 DMPs: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767772/
-  CpG loci: https://support.illumina.com/downloads/humanmethylation27_product_support_files.html
-  enhancer/promoter loci: https://epilogos.altius.org/
-  DHS loci: https://www.encodeproject.org/experiments/ENCSR000ENC/
-  CTCFbs loci: https://insulatordb.uthsc.edu/
+  - HIV DMPs: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00616-8/fulltext
+  - HPV DMPs: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3142368/ 
+  - SARS2 DMPs: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767772/
+  - CpG loci: https://support.illumina.com/downloads/humanmethylation27_product_support_files.html
+  - enhancer/promoter loci: https://epilogos.altius.org/
+  - DHS loci: https://www.encodeproject.org/experiments/ENCSR000ENC/
+  - CTCFbs loci: https://insulatordb.uthsc.edu/
 
 CODE AVAILABILITY: 
 01_Data Preprocessing
